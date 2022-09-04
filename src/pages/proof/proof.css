@@ -1,0 +1,100 @@
+
+@media (min-width: 576px) {
+    .m-sm-5 {
+        margin: 3rem!important;
+    }
+}
+
+.mt-40 {
+    margin-top: 40px!important;
+}
+
+.my-50 {
+    margin-top: 50px!important;
+    margin-bottom: 50px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.mt-5u {
+    margin-top: 5px!important;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.pt-45 {
+    padding-top: 45px;
+}
+
+.pr-40 {
+    padding-right: 40px!important;
+}
+
+.fw-300 {
+    font-weight: 300!important;
+}
+
+.fw-200 {
+    font-weight: 200!important;
+}
+
+.lh-40 {
+    line-height: 40px;
+}
+
+.fs-36 {
+    font-size: 36px;
+}
+
+.fs-16 {
+    font-size: 16px !important;
+}
+
+.fs-20 {
+    font-size: 20px!important;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.ff-normal {
+    font-family: "Montserrat", sans-serif;
+}
+
+.l-button {
+    border: none !important;;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+.btn-group {
+    display: block!important;
+}
+
+.btn-group .btn {
+    padding: 10px 25px;
+    display: inline-block;
+}
+
+.btn-info-gradient {
+    background: linear-gradient(to right, #00b4ff 0%, #316ce8 100%);
+    border: 0px;
+}
+
+.btn-info-gradient:hover {
+    background: linear-gradient(to right, #316ce8 0%, #00b4ff 100%);
+}
+
+.table>:not(:first-child) {
+    border-top: 0px solid currentColor!important;
+}
+
+.t-address .nav-link:hover {
+   color: rgb(0, 180, 255)!important;
+}

@@ -1,0 +1,20 @@
+.font-primary {
+  font-family: "Montserrat", sans-serif !important;
+}
+
+.accordion .accordion-item .accordion-header button {
+   padding: 0.7rem 0.5rem !important;
+     line-height: 22px !important;
+  font-size: 18px !important;
+  font-weight: 600 !important;
+}
+
+.text-col {
+  color: #292929 !important;
+}
+
+.font-18 {
+  line-height: 22px !important;
+  font-size: 18px !important;
+  font-weight: 600 !important;
+}

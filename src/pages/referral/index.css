@@ -1,0 +1,275 @@
+body {
+    margin: 0;
+    /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif; */
+      font: normal 75% Arial, Helvetica, sans-serif!important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  .App {
+    /* background: lightseagreen; */
+  }
+  
+  @media (min-width: 1400px) {
+  .container {
+      max-width: 1140px !important;
+  }
+  }
+
+  h4 {
+    line-height: 26px;
+    font-size: 21px;
+}
+
+  .fs-7 {
+    font-size: 0.85rem;
+  }
+  
+  .fs-8 {
+    font-size: 0.75rem;
+  }
+  
+  .fs-t {
+    font-size: 1.75rem;
+    font-family: "Montserrat", sans-serif;
+  }
+  .mt-10{
+    margin-top: 10px!important;
+  }
+  .mt-20 {
+    margin-top: 20px!important;
+  }
+  .mt-30{
+    margin-top: 30px!important;
+  }
+  .mt-37 {
+    padding: 37px!important;
+  }
+  .mb-8{
+    margin-bottom: 0.5rem!important;
+  }
+  .mb-10{
+    margin-bottom: 10px!important;
+  }
+  .mb-20 {
+    margin-bottom: 20px!important;
+  }
+  .mb-30{
+    margin-bottom: 30px!important;
+  }
+  
+  .btn-md {
+    padding: 15px 45px!important;
+    font-size: 16px!important;
+  }
+  
+  .btn-rounded {
+    border-radius: 60px;
+    -webkit-border-radius: 60px!important;
+  }
+  
+  .bg-gradient-r-p {
+    background: linear-gradient(to right, #ff4d7e 0%, #ff6a5b 100%);
+    border: 0px !important;
+  }
+  
+  .bg-gradient-s-b {
+    background: linear-gradient(to right, #00b4ff 0%, #316ce8 100%);
+    border: 0px !important;
+  }
+  line36{
+    line-height: 36px;
+  }
+  
+  .font-14 {
+    font-size: 14px;
+  }
+  
+  .font-18 {
+    font-size: 18px;
+  }
+  .font-30{
+    font-size: 30px;
+  }
+  
+  .font-primary {
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  .line-height-22  {
+    line-height: 22px;
+  }
+  
+  .font-weight-400 {
+    font-weight: 400;
+  }
+
+  .ln-36{
+    line-height: 36px;
+  }
+  
+  
+  .font-per-coin {
+    font-size: 23px;
+    font-weight: 500;
+    color:#3e4555;
+    line-height: 36px;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  .font-foot-lg {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36px;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  .font-year {
+    position: relative;
+    top: 8px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #ff4d7e;
+  }
+  
+  .font-gh {
+    font-size: 20px;
+    margin-right: 10px;
+    color: #8d97ad;
+  }
+  
+  .font-guarant {
+    display: block;
+      margin-bottom: 1rem;
+      font-size: 18px;
+      margin-top: 1rem;
+      color: #8d97ad;
+  }
+  
+  .font-bar {
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 26px;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  .font-progressin {
+    font-size: 14px;
+  }
+  
+  .mb-u {
+    margin-bottom: 2.5rem;
+  }
+  
+  .pb-u {
+    padding-bottom: 2.7rem;
+  }
+  
+  .pt-u {
+    padding-top: 150px;
+  }
+  
+  .image-responsive {
+    width: 100%;
+    height : auto
+  }
+  
+  iframe {
+    z-index: -1;
+    left: 0;
+  }
+  
+  .card {
+    border: none !important;
+    border-radius: 3px!important;
+    box-shadow: 0 4px 17px 0 rgb(0 0 0 / 1%), 0 6px 20px 0 rgb(0 0 0 / 5%);
+  }
+  
+  .card-section {
+    top:-8rem
+  }
+  
+  .card-title {
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  
+  .card-under-subtitle {
+    color: #ff4d7e;
+    font-size: larger;
+    margin-bottom: 1rem;
+  }
+  
+  .Header .navbar .navbar-brand {
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+  }
+  
+  .ml-45 {
+    margin-left: 45px !important
+  }
+  
+  .ml-30 {
+    margin-left: 30px!important;
+  }
+  h5 {
+    line-height: 22px!important;
+    font-size: 18px !important;
+    font-weight: 500!important;
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 1rem!important;
+    /* padding-left: 30px; */
+  }
+  
+  .footer-title {
+    line-height: 22px!important;
+    font-size: 18px !important;
+    font-weight: 400!important;
+    font-family: "Montserrat", sans-serif;
+  }
+  .font-21{
+    font-size: 21px;
+  }
+  
+  .b-r {
+    border-right: 1px solid rgba(120, 130, 140, 0.13);
+  }
+  
+  .b-b {
+    border-bottom: 1px solid rgba(120, 130, 140, 0.13);
+  }
+  
+  .png-size {
+    width:20%!important;
+  }
+  .row {
+    margin-left: 0px!important;
+  }
+  
+  .py-u {
+    padding-top: 2.4rem;
+    padding-bottom: 4.0rem;
+  }
+  
+  .p-con-footer {
+    padding: 37px 0;
+  }
+  
+  /* .mb-30 {
+    margin-bottom: 30px;
+  } */
+  
+  .pb-37 {
+    padding-bottom: 37px;
+  }
